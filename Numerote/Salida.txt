@@ -1,0 +1,202 @@
+1331
+11034
+25810424
+1302
+-1645
+7094885
+Error: NumeroteException: No hay operando válido
+9516
+1549
+50928226
+Error: NumeroteException: No hay operando válido
+33
+-1556
+-840013
+-6013
+5024
+41915904
+-17566
+-318
+-59736288
+Error: NumeroteException: No hay operando válido
+-8272
+14584
+-18663282
+Error: NumeroteException: No hay operando válido
+17038
+7631
+-74690640
+3291
+-1288
+22556407
+9753
+-5076
+-38561184
+Error: NumeroteException: No hay operando válido
+-12023
+2357
+-2048824
+Error: NumeroteException: No hay operando válido
+5381
+11298
+-2720528
+3415
+6453
+-51094800
+-6905
+-11157
+4329708
+Error: NumeroteException: No hay operando válido
+-7346
+5790
+3148740
+Error: NumeroteException: No hay operando válido
+-4021
+3178
+29393338
+Error: NumeroteException: No hay operando válido
+-1867
+-5079
+34562284
+Error: NumeroteException: No hay operando válido
+15468
+-46779504
+-10182
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+-2348
+-3351
+8796004
+Error: NumeroteException: No hay operando válido
+3658
+-24254439
+14208
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+7449
+-6575
+34035890
+Error: NumeroteException: No hay operando válido
+13962
+-1286264
+8518
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+-5571
+-3811695
+-4092
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+2771
+-4854
+-356109
+Error: NumeroteException: No hay operando válido
+-3550
+1887051
+2781
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+-2546
+64602725
+6500
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+6779
+2514
+-440370
+Error: NumeroteException: No hay operando válido
+4526
+19087689
+5948
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+6719
+-23665070
+-11050
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+8764
+-12483
+14460
+-35665326
+13347
+-5430
+-28761600
+Error: NumeroteException: No hay operando válido
+8998
+-3823
+-692354
+Error: NumeroteException: No hay operando válido
+-258
+10693
+19687404
+6891
+16387
+3912870
+-8775
+-3088
+-40894139
+Error: NumeroteException: No hay operando válido
+-8138
+-13705
+55575806
+Error: NumeroteException: No hay operando válido
+-11591
+8286
+-320000
+-3127
+-11211
+-7394439
+-1110
+10132
+65851870
+Error: NumeroteException: No hay operando válido
+-15883
+-757
+-38388168
+Error: NumeroteException: No hay operando válido
+-4274
+5377
+-34339976
+6071
+6997
+-20399665
+-7313
+5147
+20924090
+Error: NumeroteException: No hay operando válido
+2676
+13770
+-8392832
+Error: NumeroteException: No hay operando válido
+-2019
+13730
+-21760225
+Error: NumeroteException: No hay operando válido
+18485
+-6074
+5570848
+Error: NumeroteException: No hay operando válido
+2273
+-40801200
+4453
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+-11181
+-3952
+34751903
+Error: NumeroteException: No hay operando válido
+17807
+-44119488
+968
+Error: NumeroteException: No hay operando válido
+Error: NumeroteException: No hay operando válido
+13474
+5980
+66468764
+Error: NumeroteException: No hay operando válido
+11270
+31869420
+Error: Linea Vacía
+170
+50
